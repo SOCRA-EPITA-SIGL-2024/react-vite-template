@@ -1,6 +1,6 @@
 # React vite template
 
-This is only aimed to be copied.
+This template is part of frontend workshop for EPITA SIGL 2024 students.
 
 Copy the folder `frontend` to your local repository.
 
